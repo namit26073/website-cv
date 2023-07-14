@@ -518,6 +518,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.object {
+  width: 100%; /* for responsiveness */
+}
+
 .pdf {
   position: relative;
   overflow: hidden;
